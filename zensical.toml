@@ -1,10 +1,10 @@
 [project]
 site_url = "https://www.example.com/"
 site_name = "Documentation"
-# site_description = "Your project description"
-# site_author = "Your name"
+# site_description = "Kitchenpilot with <3"
+# site_author = "Matije"
 
-# copyright = "Copyright &copy; 2026 Your name"
+# copyright = "Copyright &copy; 2026 Matije"
 
 # repo_url = "https://github.com/user/repo"
 # repo_name = "user/repo"
@@ -12,6 +12,7 @@ site_name = "Documentation"
 
 nav = [
   { "Architektur" = "index.md" },
+  { "Backend" = "backend.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
